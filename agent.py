@@ -1,5 +1,5 @@
-# agent.py
-from brain import AgentBrain
+# agentDeviation.py
+from brainDeviation import AgentBrain
 from tools import AgentTools
 
 class SimpleAgent:
