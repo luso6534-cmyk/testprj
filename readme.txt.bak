@@ -1,0 +1,1 @@
+copy all .py to E:\9.1 Skills-dev\Python311\
