@@ -1,5 +1,5 @@
-# agent3Deviation.py
-from brain3Deviation import AgentBrain
+# agent4Deviation.py
+from brain4Deviation import AgentBrain
 #exp2  from tools import AgentTools
 
 #experiment-2 branch code start
